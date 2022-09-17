@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\visual studio projects\GoldEngine\main.cpp(19,18): warning C4553: '==': result of expression not used; did you intend '='?
+  GoldEngine.vcxproj -> D:\visual studio projects\GoldEngine\bin\Debug\GoldEngine.exe
